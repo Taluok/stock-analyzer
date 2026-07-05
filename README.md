@@ -133,7 +133,7 @@ stock-analyzer/
 
 **Tania** — AI FinTech - Programadora 
 📍 Córdoba, Argentina  
-🔗 [GitHub](https://github.com/Taluok) · [LinkedIn](https://linkedin.com/in/Taluok)
+🔗 [GitHub](https://github.com/Taluok) · [LinkedIn](https://linkedin.com/in/Taludev)
 
 ---
 
